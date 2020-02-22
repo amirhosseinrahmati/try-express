@@ -38,7 +38,8 @@ if everything will be accurate, you will get this message: **Hello. I'm listenin
 7. Congratulations! You wrote your first Express app!
 
 ### Quick Example
-**Simple Express routing app with Pug template engine **
+**Simple Express routing app with Pug template engine**
+
 Pug is a template engine for Node.js. A template engine allows us to inject data and then produce HTML. Now we're going to add new codes to the hello world app.
 Read more about Pug and it's documentation [here](https://pugjs.org/api/getting-started.html "here").
 
