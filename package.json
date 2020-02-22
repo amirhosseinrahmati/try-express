@@ -1,0 +1,27 @@
+{
+  "name": "try-express",
+  "version": "1.0.0",
+  "description": "simple routing app with Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amirhosseinrahmati/try-express.git"
+  },
+  "keywords": [
+    "express",
+    "routing",
+    "nodejs"
+  ],
+  "author": "Amirhossein Rahmati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amirhosseinrahmati/try-express/issues"
+  },
+  "homepage": "https://github.com/amirhosseinrahmati/try-express#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
